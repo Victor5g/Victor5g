@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 Passionate about helping people through programming solving problems.
 
-
 "It is not the programming language that defines the programmer, but its logic. Because in theory, theory and practice are the same, in practice not".
 
 
