@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Victor Morramidy
-![Linkedin](https://user-images.githubusercontent.com/51713169/87882556-065aff80-c9d7-11ea-8d10-0dba0311d789.png)
+[![Linkedin](https://user-images.githubusercontent.com/51713169/87882556-065aff80-c9d7-11ea-8d10-0dba0311d789.png)](http://www.linkedin.com/in/victor-morramidy-0992371a2)
