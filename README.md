@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Victor Morramidy
-[![Linkedin Badge](https://img.shields.io/badge/-Victor%20Morramidy-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Victor%20Morramidy-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-morramidy-0992371a2)](https://www.linkedin.com/in/victor-morramidy-0992371a2) 
