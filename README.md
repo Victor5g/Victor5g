@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###### Victor Morramidy
+# Victor Morramidy
 ![Linkedin](https://user-images.githubusercontent.com/51713169/87882556-065aff80-c9d7-11ea-8d10-0dba0311d789.png)
