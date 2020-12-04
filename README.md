@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - :rocket:    I currently work as a freelancer </>
 - :atom_symbol: React Native / React JS
--  <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" width="25px"> NodeJS, <img src="https://image.flaticon.com/icons/png/512/919/919832.png" width="25px"> Typescript.
+-  NodeJS, Typescript.
 
 
 
