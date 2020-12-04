@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up Dev
 🚀 I'm Victor Morramidy, I'm a Full Stack developer 👨‍💻
 
-- :rocket:    I currently work as a freelancer </>
-- :atom_symbol: React Native / React JS
--  NodeJS, Typescript.
+- :rocket:    I currently work as a freelancer </>.
+- :atom_symbol: React Native / React JS.
+-  :computer: NodeJS, Typescript.
 
 "It is not the programming language that defines the programmer, but its logic. Because in theory, theory and practice are the same, in practice not".  
 
