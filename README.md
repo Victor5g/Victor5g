@@ -21,10 +21,9 @@ Here are some ideas to get you started:
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up Dev
 🚀 I'm Victor Morramidy, I'm a Full Stack developer 👨‍💻
 
-
 - :rocket:    I currently work as a freelancer </>
--   ⚛React Native.
-- :computer:   ReactJS, Node, Typescript.
+- :atom_symbol: React Native / React JS
+-  <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" width="25px"> NodeJS, <img src="https://image.flaticon.com/icons/png/512/919/919832.png" width="25px"> Typescript.
 
 
 
@@ -32,5 +31,4 @@ Passionate about helping people solve problems through programming
 
 
 "It is not the programming language that defines the programmer, but its logic. Because in theory, theory and practice are the same, in practice not".  
-
 
