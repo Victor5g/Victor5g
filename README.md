@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - :rocket:    I currently work as a freelancer </>.
 - :atom_symbol: React Native / React JS.
--  :computer: NodeJS, Typescript.
+-  :computer: NodeJS, TypeScript.
 
 "It is not the programming language that defines the programmer, but its logic. Because in theory, theory and practice are the same, in practice not".  
 
