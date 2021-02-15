@@ -7,7 +7,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up Dev
 🚀 I'm Victor Morramidy, I'm a Full Stack developer 👨‍💻
 
-- :rocket:    I currently work as a freelancer </>.
+- :rocket: I am Pl front-end developer at LolDesign </>.
 - :atom_symbol: React Native / React JS.
 -  :computer: NodeJS, TypeScript.
  
