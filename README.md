@@ -7,7 +7,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up Dev, Welcome to my profile
 🚀 I'm Victor Morramidy, I'm a Full Stack developer 👨‍💻
 
-- :rocket: I am currently a front-end developer Pl at Beegol </>.
+- :rocket: I am currently a front-end/mobile developer Pl at Beegol </>.
 - :atom_symbol: React Native / React JS.
 -  :computer: NodeJS, TypeScript.
  
