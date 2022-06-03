@@ -7,9 +7,9 @@
 ### 👋🏻 What's up Dev, Welcome to my profile
 🚀 I'm Victor Morramidy, I'm a Full Stack developer 👨‍💻
 
-- :rocket: I am currently a front-end/mobile developer Pl at Beegol </>.
-- :atom_symbol: React Native / React JS.
--  :computer: NodeJS, TypeScript.
+- 💻 I currently work as a developer React JS and React Native at <a href="https://beegol.com/" >Beegol<a/> </>.
+- :atom_symbol:  React Native / React JS.
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> NodeJS, TypeScript, TypeORM, Exprees
  
 
 ![Victor's github stats](https://github-readme-stats.vercel.app/api?username=Victor5g&show_icons=true&theme=dracula)
