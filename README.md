@@ -8,8 +8,9 @@
 🚀 I'm Victor Morramidy, I'm a Full Stack developer 📱 🖥️ ⚙️ 🗄️
 
 - 💻 I currently work as a developer React JS and React Native at <a href="https://beegol.com/" >Beegol<a/> </>.
-- :atom_symbol:  React Native / React JS.
+- <code><img height="20" src="https://skillicons.dev/icons?i=react"></code>  React Native / React JS.
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> NodeJS, TypeScript, TypeORM, Express
+- <code><img height="20" src="https://skillicons.dev/icons?i=postgres"></code> PostgreSQL
  
 <!-- 
 ![Victor's github stats](https://github-readme-stats.vercel.app/api?username=Victor5g&show_icons=true&theme=dracula) -->
