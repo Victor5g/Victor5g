@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-morramidy.development@gmail.com-D20F00?style=flat-square&logo=Gmail&logoColor=white&link=morramidy.development@gmail.com)](mailto:vicoe.sales.f@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@DaMorramedy-1A91DA?style=flat-square&labelColor=1A91DA&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/DaMorramedy)
 ### 👋🏻 What's up Dev, Welcome to my profile
-🚀 I'm Victor Morramidy, I'm a Full Stack developer 👨‍💻
+🚀 I'm Victor Morramidy, I'm a Full Stack developer 📱 🖥️ ⚙️ 🗄️
 
 - 💻 I currently work as a developer React JS and React Native at <a href="https://beegol.com/" >Beegol<a/> </>.
 - :atom_symbol:  React Native / React JS.
