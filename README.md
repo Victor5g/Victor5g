@@ -7,7 +7,7 @@
 ### 👋🏻 Hello, Welcome to my profile
 🚀 I'm Victor Morramidy, I'm a Full Stack developer 📱 🖥️ ⚙️ 🗄️
 
-- 💻 I currently work as a developer React JS and React Native at <a href="https://beegol.com/" >Beegol<a/> </>.
+- 💻 I currently work as a developer React JS and React Native.
 - <img height="20" src="https://skillicons.dev/icons?i=react"> React Native / React JS.
 - <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> NodeJS, TypeScript, TypeORM, Express
 - <img width="20" height="20" src="https://skillicons.dev/icons?i=postgres"> PostgreSQL
