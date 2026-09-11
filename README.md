@@ -1,8 +1,6 @@
 <div align="center">
 
-# Victor Morramidy
-
-### Software Engineer · Full-Stack Development · Mobile & AI Systems
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:22D3EE&height=230&section=header&text=Victor%20Morramidy&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20Mobile%20%7C%20AI%20Systems&descSize=18&descAlignY=55)
 
 I build reliable applications across web, mobile, backend, and AI-integrated systems.
 
@@ -74,8 +72,10 @@ Mobile architecture       •  Developer tooling  •  Product engineering
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Victor5g&show_icons=true&hide_title=true&hide_border=true&theme=transparent&rank_icon=github" alt="Victor's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor5g&layout=compact&hide_border=true&theme=transparent&hide=java,objective-c" alt="Victor's most used languages" />
+
+![Victor's github info](http://github-readme-streak-stats.herokuapp.com?user=Victor5g&theme=dracula)
+
+![Victor's github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor5g&layout=compact&theme=dracula&hide=java,objective-c)
 </div>
 
 ---
@@ -83,5 +83,8 @@ Mobile architecture       •  Developer tooling  •  Product engineering
 <div align="center">
 
 **Interested in building something together?** Reach me through [LinkedIn](https://www.linkedin.com/in/victor-morramidy/).
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:22D3EE&height=120&section=footer)
+
 
 </div>
